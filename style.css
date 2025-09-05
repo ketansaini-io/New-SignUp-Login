@@ -11,10 +11,10 @@ h1{
 body{
     min-height: 100vh;
     background-image: url(background.png);
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
      background-size: cover;
+     background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     overflow: hidden;
 }
 form{
@@ -53,6 +53,7 @@ button{
     border-radius: 10px;
     width: 100px;
 }
+
 
 
 
